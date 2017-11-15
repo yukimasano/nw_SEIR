@@ -1,4 +1,5 @@
 # nw_SEIR: SEIR epidemic on temporal network data
+(For code description see bottom)
 
 This project simulates a influenza-like (SEIR) epidemic on a real temporal network in python. 
 As such outbreaks often spread between individuals, network theory can be used for the mathematical representation of the connections and contact patterns between humans (which are represented as nodes) to include important effects of social networks. In this project, we investigate the use of a temporally resolved network dataset of primary school children's contact patterns to model an influenza-like (SEIR) outbreak in a school. We partly reproduce and analyse results of a publication which investigates different simulated interventions to prevent outbreaks [Gemmetto et al](http://www.sociopatterns.org/publications/targeted-class-closure/). Next,  we apply the idea of an effective distance measure between nodes  which was applied in a publication on the spread of SARS and H1N1 virus on global airport flux data [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337). We construct these effective distances between the individuals and analyze these with regard to a predicted date of infection. 
@@ -41,3 +42,8 @@ see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 
 # Conclusion
 In this model targeted grade closure was shown be an effective outbreak mitigation strategy. Furthermore, the effective distance measure gives a good relationship between the distance and the exposure date, potentially allowing us to make inference on the origin of the outbreak. I have more figures and data, contact me, I'll be glad to help.
+
+# Code
+`CreateNetworks.py`: creates temporal network data from original dataset
+`SEIR_sim.py`: computes the simulation and does visualizations
+`CreateDistance.py`: creates effective distances from the temporal network data
