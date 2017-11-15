@@ -24,11 +24,11 @@ see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 ## Grade closure intervention
 ### 1. Without intervention
 <img src="https://user-images.githubusercontent.com/29401818/32862130-02988fd2-ca4f-11e7-9bab-1531f5de1d57.png" height ="300">
-### 2. With intervention: targeted grade closure for 3 days
+### 2. With targeted grade closure for 3 days
 <img src="https://user-images.githubusercontent.com/29401818/32862142-10d65962-ca4f-11e7-8086-fc00072c1fee.png" height ="300">
 
 ## Effective distance on the temporal network
 ### Effective distances matrix
 <img src="https://user-images.githubusercontent.com/29401818/32862158-1c23f342-ca4f-11e7-8994-f5decf1d484f.png" height ="300">
-### Date of exposure vs effective distance from the initially infected individual.
+### Date of exposure vs effective distance from the initially infected individual
 <img src="https://user-images.githubusercontent.com/29401818/32862179-2a3c1c7a-ca4f-11e7-8141-b9b3e57bea27.png" height ="300">
