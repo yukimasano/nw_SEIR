@@ -47,3 +47,4 @@ In this model targeted grade closure was shown be an effective outbreak mitigati
 * `CreateNetworks.py`: creates temporal network data from original dataset
 * `SEIR_sim.py`: computes the simulation and does visualizations
 * `CreateDistance.py`: creates effective distances from the temporal network data
+* `DistmatPics.py`: creates heatmap figures as shown above
