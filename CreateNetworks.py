@@ -8,10 +8,7 @@ default= 20min aggregation, by setting mins=1/3 we get 20sec resolution.
 Output: Tensor A20 for day 1, tensor B20 for day 2 along with the the times as vectors.
 
 @author: 
-EnCt28648cf14f7c30972de440f01c53b7544e83c9ee78648cf14f7c30972de440f01puAufN5B6QB
-rpWuQm1ZPfSb3bcvooZYGIwEmS
-
-Decrypt it at https://encipher.it
+Yuki M. Asano
 """
 import numpy as np
 def createnw(data,metadata,mins):
