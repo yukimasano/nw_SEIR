@@ -5,7 +5,7 @@ As such outbreaks often spread between individuals, network theory can be used f
 
 # Data
 
-We use real contact data of primary school children in France over a two day period. The data is freely available and is provided by the SocioPatterns Collaboration [http://www.sociopatterns.org/]. The data has a 20 second time resolution of anonymised face-to-face contacts between pupils and teachers. Contacts lasting over 20 seconds are recorded by the RFID infrastructure when the two sensors are in proximity (between $1-1.5$m). Of the 242 children, 232 and all 10 teachers have participated in the study. Further details of the methodology and the data usage consent can be found in the first publication of the data [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023176]. In order to reduce computing time, we have aggregated the contact data into 20min windows.
+We use real contact data of primary school children in France over a two day period. The data is freely available and is provided by the SocioPatterns Collaboration [http://www.sociopatterns.org/]. The data has a 20 second time resolution of anonymised face-to-face contacts between pupils and teachers. Contacts lasting over 20 seconds are recorded by the RFID infrastructure when the two sensors are in proximity (between 1-1.5m). Of the 242 children, 232 and all 10 teachers have participated in the study. Further details of the methodology and the data usage consent can be found in the first publication of the data [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023176]. In order to reduce computing time, we have aggregated the contact data into 20min windows.
 
 # Methods
 ## SEIR model
