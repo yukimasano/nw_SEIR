@@ -44,6 +44,6 @@ see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 In this model targeted grade closure was shown be an effective outbreak mitigation strategy. Furthermore, the effective distance measure gives a good relationship between the distance and the exposure date, potentially allowing us to make inference on the origin of the outbreak. I have more figures and data, contact me, I'll be glad to help.
 
 # Code
-`CreateNetworks.py`: creates temporal network data from original dataset
-`SEIR_sim.py`: computes the simulation and does visualizations
-`CreateDistance.py`: creates effective distances from the temporal network data
+  *`CreateNetworks.py`: creates temporal network data from original dataset
+  *`SEIR_sim.py`: computes the simulation and does visualizations
+  *`CreateDistance.py`: creates effective distances from the temporal network data
