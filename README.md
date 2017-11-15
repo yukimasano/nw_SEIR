@@ -11,7 +11,7 @@ We use real contact data of primary school children in France over a two day per
 ## SEIR model
 see [Gemmetto et al](http://www.sociopatterns.org/publications/targeted-class-closure/)
 
-## Effective Distance
+## Effective distance
 see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 
 # Results
@@ -40,4 +40,4 @@ see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 <img src="https://user-images.githubusercontent.com/29401818/32862179-2a3c1c7a-ca4f-11e7-8141-b9b3e57bea27.png" height ="300">
 
 # Conclusion
-In this model targeted grade closure was shown be an effective outbreak mitigation strategy. Furthermore, the effective distance measure gives a good relationship between the distance and the exposure date, potentially allowing us to make inference on the origin of the outbreak. I have more Figures and data, contact me, I'll be glad to help.
+In this model targeted grade closure was shown be an effective outbreak mitigation strategy. Furthermore, the effective distance measure gives a good relationship between the distance and the exposure date, potentially allowing us to make inference on the origin of the outbreak. I have more figures and data, contact me, I'll be glad to help.
