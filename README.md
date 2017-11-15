@@ -15,15 +15,20 @@ see [Gemmetto et al](http://www.sociopatterns.org/publications/targeted-class-cl
 see [Brockmann et al.](http://science.sciencemag.org/content/342/6164/1337)
 # Results
 ## Single simulation
-![One SEIR simulation that leads to a large scale outbreak. Day 0 corresponds to a Monday.]
-<img src="https://user-images.githubusercontent.com/29401818/32862099-d4d64f80-ca4e-11e7-9c44-0e02e8403183.png?v=4&s=200" height="400">
+### 1. One SEIR simulation that leads to a large scale outbreak. Day 0 corresponds to a Monday
+<img src="https://user-images.githubusercontent.com/29401818/32862099-d4d64f80-ca4e-11e7-9c44-0e02e8403183.png" height="400">
 
-![Cumulative incidence by school grade (top) cases in total and prevalence of infected (bottom)](https://user-images.githubusercontent.com/29401818/32862112-e30ab082-ca4e-11e7-85d5-ba7f9799a702.png)
+### 2.Cumulative incidence by school grade (top) cases in total and prevalence of infected (bottom)
+<img src="https://user-images.githubusercontent.com/29401818/32862112-e30ab082-ca4e-11e7-85d5-ba7f9799a702.png" height="400">
 
 ## Grade closure intervention
-![Prevalence curves for the infected without grade closure](https://user-images.githubusercontent.com/29401818/32862130-02988fd2-ca4f-11e7-9bab-1531f5de1d57.png)
-![Prevalence curves for the infected with grade closure for 3 days](https://user-images.githubusercontent.com/29401818/32862142-10d65962-ca4f-11e7-8086-fc00072c1fee.png)
+### 1. Without intervention
+<img src="https://user-images.githubusercontent.com/29401818/32862130-02988fd2-ca4f-11e7-9bab-1531f5de1d57.png" height ="300")
+### 2. With intervention: targeted grade closure for 3 days
+<img src="https://user-images.githubusercontent.com/29401818/32862142-10d65962-ca4f-11e7-8086-fc00072c1fee.png" height ="300")
 
 ## Effective distance on the temporal network
-![Effective distances](https://user-images.githubusercontent.com/29401818/32862158-1c23f342-ca4f-11e7-8994-f5decf1d484f.png)
-![Date of exposure vs effective distance from the initially infected individual.](https://user-images.githubusercontent.com/29401818/32862179-2a3c1c7a-ca4f-11e7-8141-b9b3e57bea27.png)
+### Effective distances matrix
+<img src="https://user-images.githubusercontent.com/29401818/32862158-1c23f342-ca4f-11e7-8994-f5decf1d484f.png" height ="300")
+### Date of exposure vs effective distance from the initially infected individual.
+<img src="https://user-images.githubusercontent.com/29401818/32862179-2a3c1c7a-ca4f-11e7-8141-b9b3e57bea27.png" height ="300")
